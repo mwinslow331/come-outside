@@ -16,6 +16,13 @@
 # Ignore Byebug command history file.
 .byebug_history
 
+# Ignore coveralls report
+/coverage
+
+# Ignore environmental variables.
+.env
+
+# Ignore environmental variables
 /node_modules
 /app/assets/javascripts/bundle.js
 /react/coverage
