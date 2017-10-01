@@ -17,7 +17,6 @@ class App extends Component {
           // <Route path='user_profile' name='user_profile' component={UserProfile}/>
         </Route>
       </Router>
-
     )
   }
 }
