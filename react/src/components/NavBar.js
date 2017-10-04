@@ -9,13 +9,10 @@ class NavBar extends Component {
     }
   }
 
-  render(){
-    return(
+  render() {
+    return (
       <div>
-        <h1>Nav Bar</h1>
-        <p>
-          <Link to='/'>Profile</Link>
-        </p>
+        <h1>something</h1>
       </div>
     )
   }
