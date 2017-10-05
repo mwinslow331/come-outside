@@ -12,7 +12,8 @@ class NavBar extends Component {
   render() {
     return (
       <div>
-        <h1>something</h1>
+        <h1>something or LARA</h1>
+        <h6> smaller version of stuff </h6>
       </div>
     )
   }
