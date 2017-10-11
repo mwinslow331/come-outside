@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Router, Route, browserHistory, Link, IndexRoute } from 'react-router';
+import PropTypes from 'prop-types';
 import NavBar from './components/NavBar';
 
 class App extends Component {
